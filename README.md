@@ -21,7 +21,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Commits][commits-shield]][commits-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -148,8 +147,6 @@ Project Link: [https://github.com/sn2606/CPP-JAVA-DSA](https://github.com/sn2606
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/sn2606/CPP-JAVA-DSA.svg?style=for-the-badge
 [contributors-url]: https://github.com/sn2606/CPP-JAVA-DSA/graphs/contributors
-[commits-shield]: https://img.shields.io/github/commits/sn2606/CPP-JAVA-DSA.svg?style=for-the-badge
-[commits-url]: https://github.com/sn2606/CPP-JAVA-DSA/commits/master
 [forks-shield]: https://img.shields.io/github/forks/sn2606/CPP-JAVA-DSA.svg?style=for-the-badge
 [forks-url]: https://github.com/sn2606/CPP-JAVA-DSA/network/members
 [stars-shield]: https://img.shields.io/github/stars/sn2606/CPP-JAVA-DSA.svg?style=for-the-badge
