@@ -84,5 +84,6 @@
         "xtree": "cpp",
         "xutility": "cpp"
     },
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "java.dependency.packagePresentation": "hierarchical"
 }
