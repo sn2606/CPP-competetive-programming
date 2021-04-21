@@ -85,5 +85,9 @@
         "xutility": "cpp"
     },
     "cmake.configureOnOpen": false,
-    "java.dependency.packagePresentation": "hierarchical"
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        "Java Concepts",
+        "Tree"
+    ]
 }
