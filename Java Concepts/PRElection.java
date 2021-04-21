@@ -46,29 +46,43 @@ public class PRElection {
 
         CountVotes counter = new CountVotes();
 
-        new Thread("Counter Thread 1"){
+        Thread t1 = new Thread("Counter Thread 1"){
             public void run() {
                 counter.counting(votes);
             }
-        }.start();
+        };
 
-        new Thread("Counter Thread 2"){
+        Thread t2 = new Thread("Counter Thread 2"){
             public void run() {
                 counter.counting(votes);
             }
-        }.start();
+        };
 
-        new Thread("Counter Thread 3"){
+        Thread t3 = new Thread("Counter Thread 3"){
             public void run() {
                 counter.counting(votes);
             }
-        }.start();
+        };
 
-        new Thread("Counter Thread 4"){
+        Thread t4 = new Thread("Counter Thread 4"){
             public void run() {
                 counter.counting(votes);
             }
-        }.start();
+        };
+
+        t1.start();
+        t2.start();
+        t3.start();
+        t4.start();
+
+        try {
+            t1.join();
+            t2.join();
+            t3.join();
+            t4.join();
+        } catch (Exception e) {
+            System.out.println(e);
+        }
 
         System.out.println("A: " + counter.A);
         System.out.println("B: " + counter.B);
