@@ -1,7 +1,7 @@
 package pack1.subpack1;
 import pack1.Person;
 
-class Student extends Person {
+public class Student extends Person {
     String regno;
     double cgpa;
 
