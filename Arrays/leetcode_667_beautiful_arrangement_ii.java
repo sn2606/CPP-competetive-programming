@@ -4,7 +4,7 @@
 // [|a1 - a2|, |a2 - a3|, |a3 - a4|, ... , |an-1 - an|] has exactly k distinct integers.
 // If there are multiple answers, print any of them.
 
-class Solution {
+class Solution667 {
     public int[] constructArray(int n, int k) {
         int[] ans = new int[n];
         int m1 = 1;
