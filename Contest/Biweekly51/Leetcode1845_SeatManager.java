@@ -1,3 +1,5 @@
+package Biweekly51;
+
 // Design a system that manages the reservation state of n seats that are numbered from 1 to n.
 // Implement the SeatManager class:
 // SeatManager(int n) Initializes a SeatManager object that will manage n seats numbered from 1 to n. 
