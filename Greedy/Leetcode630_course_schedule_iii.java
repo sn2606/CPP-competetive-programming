@@ -11,7 +11,7 @@ import java.util.Comparator;
 class Solution630 {
     public int scheduleCourse(int[][] courses) {
         int r = courses.length;
-        int c = courses[0].length;
+        // int c = courses[0].length;
 
         if (r == 1)
             return 1;

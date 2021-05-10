@@ -4,7 +4,6 @@
 // 3. You have to print repeating and missing element respectively.
 
 import java.util.*;
-import java.io.*;
 
 public class FindRepeatingAndMissing {
     public static void main(String[] args) {
@@ -13,6 +12,7 @@ public class FindRepeatingAndMissing {
 
         if (n == 1) {
             System.out.println(-1);
+            s.close();
             return;
         }
 
@@ -52,5 +52,7 @@ public class FindRepeatingAndMissing {
 
         System.out.println(repeating);
         System.out.println(missing);
+
+        s.close();
     }
 }

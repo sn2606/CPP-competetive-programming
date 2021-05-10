@@ -23,11 +23,11 @@ public class StudentCourseHash {
         h2.put("C","333");
         h2.put("C++","444");
 
-        for(Map.Entry m:h1.entrySet()){
+        for(Map.Entry<String, List<String>> m:h1.entrySet()){
             System.out.println(m.getKey()+" "+m.getValue());
         }
 
-        for(Map.Entry m:h2.entrySet()){
+        for(Map.Entry<String, String> m:h2.entrySet()){
             System.out.println(m.getKey()+" "+m.getValue());
         }
 
@@ -38,7 +38,7 @@ public class StudentCourseHash {
         System.out.println("Faculties are: ");
         h1.forEach((k, v) -> {
             if(k.equals(s))
-            v.forEach(w -> {for(Map.Entry m:h2.entrySet()){
+            v.forEach(w -> {for(Map.Entry<String, String> m:h2.entrySet()){
                 if(m.getKey().equals(w))
                     System.out.println(m.getValue());
             }});

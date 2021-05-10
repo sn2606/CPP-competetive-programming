@@ -33,7 +33,7 @@ public class LongestCommonSubsequence {
         String s1 = "AGGTAB";
         String s2 = "GXTXAYB";
 
-        System.out.println("Length of LCS is" + " " + lcs.lcs(X, Y));
+        System.out.println("Length of LCS is" + " " + lcs.lcs(s1, s2));
     }
 
 }
