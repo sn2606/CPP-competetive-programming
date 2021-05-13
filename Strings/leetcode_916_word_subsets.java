@@ -5,9 +5,10 @@
 // Return a list of all universal words in A.  You can return the words in any order.
 
 import java.util.ArrayList;
+import java.util.List;
 
 // O(A + B) where A = no. of characters in A and B = no. of characters in B
-class Solution {
+class Solution916 {
     public List<String> wordSubsets(String[] A, String[] B) {
         
         int alph[] = new int[26];
