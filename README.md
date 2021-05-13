@@ -20,12 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -41,7 +35,9 @@
   <p align="center">
     Problems from different coding websites solved in C++ and Java
     <br />
-    <a href="https://github.com/sn2606/CPP-JAVA-DSA/issues">Request Solution</a>
+<!--     <a href="https://github.com/sn2606/CPP-JAVA-DSA/issues">Request Solution</a> -->
+<!--     [![Contributors][contributors-shield]][contributors-url]
+    [![LinkedIn][linkedin-shield]][linkedin-url] -->
   </p>
 </p>
 
@@ -115,17 +111,10 @@ To get a local copy up and running follow these simple steps.
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
+[@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
 
 Project Link: [https://github.com/sn2606/CPP-JAVA-DSA](https://github.com/sn2606/CPP-JAVA-DSA)
 
