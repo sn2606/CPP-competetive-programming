@@ -36,8 +36,8 @@
     Problems from different coding websites solved in C++ and Java
     <br />
 <!--     <a href="https://github.com/sn2606/CPP-JAVA-DSA/issues">Request Solution</a> -->
-    [![Contributors][contributors-shield]][contributors-url]
-    [![LinkedIn][linkedin-shield]][linkedin-url]
+<!--     [![Contributors][contributors-shield]][contributors-url]
+    [![LinkedIn][linkedin-shield]][linkedin-url] -->
   </p>
 </p>
 
