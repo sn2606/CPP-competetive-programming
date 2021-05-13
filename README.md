@@ -20,8 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -37,7 +35,9 @@
   <p align="center">
     Problems from different coding websites solved in C++ and Java
     <br />
-    <a href="https://github.com/sn2606/CPP-JAVA-DSA/issues">Request Solution</a>
+<!--     <a href="https://github.com/sn2606/CPP-JAVA-DSA/issues">Request Solution</a> -->
+    [![Contributors][contributors-shield]][contributors-url]
+    [![LinkedIn][linkedin-shield]][linkedin-url]
   </p>
 </p>
 
