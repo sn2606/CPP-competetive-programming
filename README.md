@@ -111,17 +111,10 @@ To get a local copy up and running follow these simple steps.
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
+[@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
 
 Project Link: [https://github.com/sn2606/CPP-JAVA-DSA](https://github.com/sn2606/CPP-JAVA-DSA)
 
