@@ -3,7 +3,7 @@
 // substrings even they consist of same characters.
 
 // O(n^2) solution
-class Solution {
+class Solution647 {
     public int countSubstrings(String s) {
         int count = 1;
         if (s.length() == 0) {
