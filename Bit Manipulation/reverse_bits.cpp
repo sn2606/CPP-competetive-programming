@@ -2,10 +2,7 @@
 // O(log2(n)) time, O(1) space
 
 #include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 
